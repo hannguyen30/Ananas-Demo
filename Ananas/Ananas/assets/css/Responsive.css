@@ -3,6 +3,9 @@
     padding:10px 0;
     list-style:none;
 }
+mobile__main--item:hover {
+    background-color: #f15e2c;
+}
 li.mobile__main--user {
     list-style: none;
     padding: 10px 0;

@@ -60,7 +60,7 @@ namespace Ananas
                                              "<p>" + p.price + "</p>" +
                                              "<button type =\"submit\" class=\"btnaddtocart\" value=\"" + p.id + "\" name=\"btnaddtocart\">Thêm vào giỏ hàng" +
                                              "</button></div></div></div>";
-                            titleproducts.Text = "Kết quả tìm kiếm " + SearchInput;
+                            titleproducts.Text = "Kết quả tìm kiếm " + Request.QueryString["search"];
                         }
                         else
                         {
@@ -83,7 +83,7 @@ namespace Ananas
                                        "<button type =\"submit\" class=\"btnaddtocart\" value=\"" + psearch.id + "\" name=\"btnaddtocart\">Thêm vào giỏ hàng" +
                                        "</button></div></div></div>";
                             }
-                            titleproducts.Text = "Kết quả tìm kiếm " + SearchInput;
+                            titleproducts.Text = "Kết quả tìm kiếm " + Request.QueryString["search"];
 
                         }
 
