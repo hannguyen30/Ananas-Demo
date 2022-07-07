@@ -1,19 +1,19 @@
 # Ananas-Demo
-Home page
+<p>Home page</p>
 <img src="demo/localhost_44368_Home.aspx%20(1).png"/>
-Products
+<p>Products</p>
 <img src="demo/localhost_44368_Product.aspx.png"/>
-Filter by product line
+<p>Filter by product line</p>
 <img src="demo/localhost_44368_Product.aspx_type%3D1.png"/>
-Seach by price
+<p>Seach by price</p>
 <img src="demo/localhost_44368_Product.aspx_search%3D520000.png"/>
-Prodetail
+<p>Prodetail</p>
 <img src="demo/localhost_44368_Prodetail.aspx_id%3D1.png"/>
-Cart
+<p>Cart</p>
 <img src="demo/localhost_44368_Cart.aspx.png"/>
-Account information
+<p>Account information</p>
 <img src="demo/localhost_44368_UserInfo.aspx.png"/>
-Users Manager
+<p>Users Manager</p>
 <img src="demo/localhost_44368_UserManager.aspx.png"/>
-Products Manager
+<p>Products Manager</p>
 <img src="demo/localhost_44368_ProductManager.aspx.png"/>
